@@ -5,7 +5,20 @@
       {
         "appID": "ERPEE7Q6JS.net.minarik.test.universallinks.UniversalLinksTest",
         "paths": [
-          "*"
+          "/marianneclub/kupony/*",
+          "/marianne-club/kupony/*",
+          "/marianneklub/kupony/*",
+          "/marianne-klub/kupony/*",
+          "/marianneclub/vouchers/*",
+          "/marianne-club/vouchers/*",
+          "/marianneklub/vouchers/*",
+          "/marianne-klub/vouchers/*",
+          "/cs/stranka/*",
+          "/sk/stranka/*",
+          "/marianneclub/*",
+          "/marianne-club/*",
+          "/marianneklub/*",
+          "/marianne-klub/*",
         ]
       }
     ]
