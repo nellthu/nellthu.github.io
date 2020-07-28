@@ -4,16 +4,8 @@
     "details": [
       {
         "appID": "ERPEE7Q6JS.net.minarik.test.universallinks.UniversalLinksTest",
-        "appIDs": [
-        	"ERPEE7Q6JS.net.minarik.test.universallinks.UniversalLinksTest" 
-        ],
         "paths": [
           "*"
-        ],
-        "components": [
-        	{
-	        	"/": "buy/*",
-        	}
         ]
       }
     ]
